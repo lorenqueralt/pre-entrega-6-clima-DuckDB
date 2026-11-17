@@ -1,0 +1,13 @@
+# Archivos binarios de base de datos (NO se versionan: enfoque embebido)
+*.duckdb
+*.db
+*.wal
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Sistema
+.DS_Store
